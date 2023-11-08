@@ -1,0 +1,1 @@
+import{L as e}from"./Layout-5386bdf5.js";import{_ as t,r as n,o as s,e as a}from"./index-951e80f2.js";const r={name:"Index",components:{Layout:e}};function c(p,_,m,f,u,d){const o=n("Layout");return s(),a(o)}const l=t(r,[["render",c]]);export{l as default};
